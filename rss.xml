@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+  <rss version="2.0"><channel> 
+				<title>RSS Selamat Datang di SMK ISLAM DIPONEGORO</title> 
+				<description>website sekolah SMK Islam Diponegoro</description>
+				<link>http://localhost/sekolah_ci</link> 
+				<language>id-id</language><item>
+						                <title>Pidato Menteri Pendidikan dan Kebudayaan Pada Peringatan Hardiknas</title>
+						                <link>http://103.82.92.247/smki.dipo/berita/detail/pidato-menteri-pendidikan-dan-kebudayaan-pada-peringatan-hardiknas</link>
+						                <description>Yth. Bapak/Ibu
+1. Kepala Dinas Pendidikan Provinsi
+2. Kepala Dinas Pendidikan Kabupaten/Kota
+3. Kepala LPMP
+4. Kepala SD, SMP, SMA, SMK, dan SLB
+di seluruh Indonesia
+
+
+Assalamualaikum warahmatullahi wabarakatuh
+
+Setiap tanggal 2 Mei kita peringati sebagai Hari Pendidikan Nasional, dan untuk memperingati Hardiknas tahun 2019 Kementerian Pendidikan dan Kebudayaan telah mengeluarkan Surat Edaran Pedoman Peringatan Hari Pendidikan Nasional tahun 2019 (dapat diunduh pada lampiran berita ini) termasuk didalamnya Pedoman Pelaksanaan Upacara Bendera Peringatan Hari Pendidikan Nasional tahun 2019.
+
+Dalam Pedoman Peringatan Hari Pendidikan Nasional tahun 2019 dihimbau untuk melaksanakan upacara bendera secara serentak pada hari Kamis, 2 Mei 2019 pukul 08.00 waktu setempat. Dan telah dirilis Pidato Menteri Pendidikan dan Kebudayaan Dalam Peringatan Hari Pendidikan Nasional, 2 Mei 2019 (dapat diunduh pada lampiran berita ini).
+
+Demikian informasi yang kami sampaikan, atas perhatian dan kerjasama Bapak/Ibu serta teman-teman operator sekalian, kami ucapkan terima kasih.
+
+Wassalamualaikum warahmatullahi wabarakatuh.
+</description>
+					                </item><item>
+						                <title>Rilis Perbaikan Aplikasi Dapodik Versi 2023.b</title>
+						                <link>http://103.82.92.247/smki.dipo/berita/detail/rilis-perbaikan-aplikasi-dapodik-versi-2023b</link>
+						                <description>Yth. Bapak/Ibu
+
+
+	Kepala Dinas Pendidikan Provinsi
+	Kepala Cabang Dinas Pendidikan Provinsi
+	Kepala Dinas Pendidikan Kabupaten/Kota
+	Kepala BBPMP dan BPMP
+	Kepala Satuan Pendidikan
+
+
+di seluruh Indonesia
+
+Assalamualaikum warahmatullahi wabarakatuh,
+
+Salam sejahtera bagi kita semua,
+
+Menindaklanjuti beberapa laporan terkait adanya bugs pada Aplikasi Dapodik versi 2023 yang dapat mengganggu kelancaran Satuan Pendidikan dalam melakukan pemutakhiran data semester 1 Tahun Ajaran 2022/2023, Direktorat Jenderal Pendidikan Anak Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah telah melakukan pemutakhiran Aplikasi Dapodik versi 2023.b yang telah dilakukan perbaikan. Untuk memperbarui aplikasi dapodik 2023.a ke versi 2023.b dapat mengikuti beberapa langkah berikut ini:
+
+
+	Unduh file patch dapodik 2023.b di sini;
+	Install patch dapodik 2023.b;
+	Refresh browser (ctrl+F5);
+	Login Aplikasi Dapodik.
+	Pastikan tampilan aplikasi sudah versi 2022.b;
+	Selesai.
+
+
+Satuan Pendidikan dapat juga melakukan pembaruan Aplikasi Dapodik versi 2023.b secara otomatis dengan langkah berikut:
+
+
+	Pastikan sudah terpasang aplikasi Dapodik versi 2023.a;
+	Pilih menu pengaturan pada aplikasi dapodik versi 2023.a;
+	Pilih tombol cek pembaruan;
+	Pastikan semua proses pembaruan “Berhasil”;
+	Refresh browser (ctrl+F5);
+	Login aplikasi dapodik;
+	Pastikan tampilan aplikasi sudah menggunakan versi 2023.b;
+	Lakukan proses Tarik data;
+	Selesai.
+
+
+Berikut adalah daftar perubahan pada Aplikasi Dapodik versi 2023.b:
+
+
+	[Perbaikan] Perbaikan bugs validasi pada kelas tingkat 3,6,9,12 bagi sekolah bukan penyelenggara IKM;
+	[Perbaikan] Perbaikan bugs validasi JJM maksimal per rombel bagi kurikulum merdeka pada jenjang SD;
+	[Perbaikan] Perbaikan bugs saat pemilihan kurikulum merdeka bagi jenjang SMALB dan sekolah dibawah naungan KEMENAG;
+	[Perbaikan] Perbaikan saat menyimpan C2 dan C3 bagi kurikulum 2013 pada jenjang SMK;
+	[Perbaikan] Perbaikan bugs saat memetakan peserta didik pada rombongan belajar mata pelajaran pilihan.
+
+
+Demikian informasi yang kami sampaikan. Atas perhatian dan kerja sama Bapak/Ibu, kami ucapkan terima kasih.
+</description>
+					                </item><item>
+						                <title>Rilis Aplikasi Dapodik Versi 2023.d</title>
+						                <link>http://103.82.92.247/smki.dipo/berita/detail/rilis-aplikasi-dapodik-versi-2023d</link>
+						                <description>Yth. Bapak/Ibu
+
+
+	Kepala Dinas Pendidikan Provinsi
+	Kepala Cabang Dinas Pendidikan Provinsi
+	Kepala Dinas Pendidikan Kabupaten/Kota
+	Kepala BBPMP dan BPMP
+	Kepala Satuan Pendidikan
+
+
+di seluruh Indonesia
+
+ 
+
+Assalamualaikum warahmatullahi wabarakatuh
+
+Salam sejahtera bagi kita semua,
+
+Dengan Hormat
+
+Dalam rangka pemutakhiran data pokok pendidikan Tahun Ajaran 2022/2023 semester Genap sesuai dengan amanat Permendikbud No 31 Tahun 2022 bahwa Satuan Pendidikan mempunyai tugas untuk melakukan pemutakhiran data secara berkala sekurang-kurangnya satu kali dalam satu semester, sejalan dengan hal tersebut Direktur Jenderal Pendidikan Anak Usia Dini, Pendidikan Dasar, Pendidikan Menengah melakukan pembaruan Aplikasi Dapodik. Pada versi terbaru ini terdapat perubahan bisnis proses penginputan prasarana kamar mandi/WC dalam rangka persiapan perhitungan pengajuan DAK Fisik. maka dari itu proses pengumpulan dan pembaharuan data pokok pendidikan pada jenjang PAUD, SD, SMP, SMA, SMK, PKBM, SKB, dan SLB dilakukan dengan menggunakan Aplikasi Dapodik Versi 2023.d.
+
+Adapun pembaruan dan perbaikan yang dilakukan pada Aplikasi Dapodik versi 2023.d adalah sebagai berikut:
+
+
+	[Pembaruan] Penambahan informasi terkait bersedia menerima Bantuan Operasional Satuan Pendidikan (BOSP);
+	[Pembaruan] Penambahan sub ruang / bilik untuk prasarana kamar mandi/WC;
+	[Pembaruan] Penambahan kolom kondisi dan bobot kerusakan pada bangunan yang di dapat dari Manajemen SP;
+	[Pembaruan] Penambahan referensi ruang pusat sumber pendidikan inklusif;
+	[Perbaikan] Perbaikan input P5 pada pembelajaran bagi pelaksana Kurikulum Merdeka;
+	[Perbaikan] Perbaikan Bugs pada saat memilih Kurikulum dan tingkat pendidikan bagi jenjang KB, TPA, SPS pada jenjang PKBM/SKB;
+	[Perbaikan] Perubahan bisnis proses penginputan untuk prasaran kamar mandi/WC;
+	[Perbaikan] Perubahan wilayah hingga pemilihan desa/kelurahan pada formulir peserta didik.
+
+
+Bagi Satuan pendidikan yang sudah Instal Aplikasi Dapodik versi 2023.a, b, dan c dapat mengikuti langkah-langkah berikut:
+
+
+	Unduh file patch dapodik 2023.d disini;
+	Install patch dapodik 2023.d;
+	Refresh browser (ctrl+F5);
+	Login Aplikasi Dapodik;
+	Pastikan tampilan aplikasi sudah versi 2023.d;
+	Isi data sesuai kondisi riil;
+	Lakukan sinkronisasi;
+	Selesai.
+
+
+ 
+
+untuk mempermudah dalam mengoperasikan Aplikasi Dapodik Versi 2023.d diharapkan satuan pendidikan membaca dan memahami buku panduan yang dapat diunduh disini
+
+ 
+
+Demikian informasi yang kami sampaikan. Atas perhatian Bapak/Ibu, kami ucapkan terima kasih.
+</description>
+					                </item><item>
+						                <title>Rilis Aplikasi Dapodik Versi 2024.c</title>
+						                <link>http://103.82.92.247/smki.dipo/berita/detail/rilis-aplikasi-dapodik-versi-2024c</link>
+						                <description>Yth. Bapak/Ibu
+
+
+	Kepala Dinas Pendidikan Provinsi
+	Kepala Dinas Pendidikan Kabupaten/Kota
+	Kepala BBPMP dan BPMP
+	Kepala Satuan Pendidikan PAUD, SD, SMP, SMA, SMK, PKBM, SKB dan SLB
+
+
+di seluruh Indonesia
+
+ 
+
+Assalamualaikum warahmatullahi wabarakatuh,
+
+Salam sejahtera bagi kita semua,
+
+Dengan hormat kami sampaikan bahwa dalam rangka pemutakhiran data pokok pendidikan semester genap Tahun Ajaran 2023/2024 di satuan pendidikan Direktorat Jenderal Pendidikan Anak Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah telah melakukan pemutakhiran Aplikasi Dapodik versi 2024.c, berikut adalah pokok-pokok pembaruan di Aplikasi Dapodik versi 2024.c:
+
+
+	Sesuai dengan Permendikbudristek nomor 46 tahun 2023 tentang Pencegahan dan Penanganan Kekerasan di Lingkungan Satuan Pendidikan, sebagaimana dimaksud agar Satuan pendidikan segera membentuk dan melaporkan Satuan Tugas PPKSP dan TPPK tersebut ke dalam sistem Dapodik dan Portal PPKSP.
+	Selanjutnya pembentukan Satuan Tugas di Pemerintah Provinsi dan Kabupaten Kota paling lambat 6 bulan, pembentukan TPPK untuk jenjang PAUD dan Pendidikan Nonformal 1 tahun dan jenjang SD, SMP, SMA dan SMK serta SLB sesuai jenjang paling lambat 6 bulan sejak Permendikbudristek Nomor 46 Tahun 2023 diundangkan pada tanggal 4 Agustus 2023.
+	Selain daripada itu terdapat beberapa laporan terkait adanya bugs pada Aplikasi Dapodik versi 2024.b yang dapat mengganggu kelancaran Satuan Pendidikan dalam melakukan pemutakhiran data semester 1 Tahun Ajaran 2023/2024.
+
+
+Aplikasi Dapodik versi 2024.c dirilis dalam bentuk patch. Satuan pendidikan dapat melakukan pembaruan Aplikasi Dapodik versi 2024.c menggunakan patch dengan syarat pada perangkat sudah terpasang Aplikasi Dapodik versi 2024.b, berikut langkah-langkah pembaruan menggunakan patch:
+
+
+	unduh file patch Aplikasi Dapodik 2024.c pada laman https://dapo.kemdikbud.go.id/unduhan;
+	instal patch dapodik 2024.c;
+	refresh peramban web (ctrl+F5);
+	tutup dan buka Aplikasi Dapodik;
+	isi username dan password;
+	pilih semester 2023/2024 Genap;
+	klik tombol Masuk;
+	pastikan tampilan Aplikasi Dapodik sudah versi 2024.c;
+	klik tombol tarik data;
+	pastikan proses tarik data berhasil;
+	lakukan input data sesuai kondisi riil;
+	login akun Kepala Sekolah;
+	klik tombol sinkronisasi.
+
+
+ Berikut adalah daftar perubahan pada Aplikasi Dapodik versi 2024.c:
+
+
+	[Pembaruan] Penambahan validasi jika satuan pendidikan mengubah jenis kepanitiaan lama ke jenis kepanitiaan TPPK (wajib membuat kepanitiaan baru).
+	[Pembaruan] Penambahan pop-up saat satuan pendidikan mendapatkan pesan baru dari pusat.
+	[Perbaikan] Perbaikan urutan kolom isian NPWP dan nama wajib pajak pada formulir GTK.
+	[Perbaikan] Perbaikan bugs validasi pengecekan unsur GTK pada keanggotaan TPPK.
+	[Perbaikan] Perbaikan bugs pada saat import nilai dari file Excel.
+
+
+Panduan penggunaan Aplikasi Dapodik versi 2024.c, yang memuat petunjuk teknis dari setiap perubahan serta perbaikan dapat diunduh melalui laman https://dapo.kemdikbud.go.id/unduhan atau pada bagian lampiran berita ini.
+
+Demikian informasi yang kami sampaikan. Atas perhatian dan kerja sama Bapak/Ibu, kami ucapkan terima kasih.
+
+  
+
+Salam Satu Data Pendidikan Indonesia,
+
+Wassalamualaikum warahmatullahi wabarakatuh.
+</description>
+					                </item><item>
+						                <title>Perekaman Projek Penguatan Profil Pelajar Pancasila (P5) di Dapodik</title>
+						                <link>http://103.82.92.247/smki.dipo/berita/detail/perekaman-projek-penguatan-profil-pelajar-pancasila-p5-di-dapodik</link>
+						                <description>Yth. Bapak/Ibu
+
+
+	Kepala Dinas Pendidikan Provinsi
+	Kepala Cabang Dinas Pendidikan Provinsi
+	Kepala Dinas Pendidikan Kabupaten/Kota
+	Kepala BBPMP dan BPMP
+	Kepala Satuan Pendidikan
+
+
+di seluruh Indonesia
+
+Assalamualaikum warahmatullahi wabarakatuh,
+
+Salam sejahtera bagi kita semua,
+
+ 
+
+Menindaklanjuti beberapa laporan pengisian data di Aplikasi Dapodik versi 2023.c terkait jumlah jam mengajar yang tertera pada pengisian tema P5, dengan ini menginformasikan bahwa:
+
+ 
+
+
+	Sesuai Kepmendikbudristek Nomor 262/M/2022, beban kerja tugas tambahan sebagai koordinator projek penguatan profil pelajar Pancasila dapat diekuivalensikan dengan 2 (dua) jam tatap muka per 1 (satu) rombongan belajar setiap tahun untuk pemenuhan jam tatap muka paling sedikit 24 (dua puluh empat) jam tatap muka per-minggu dan paling banyak mengampu 3 (tiga) rombongan belajar.
+	Jumlah jam maksimal di masing-masing mata pelajaran yang berada di tabel pembelajaran sudah termasuk alokasi-alokasi Projek Penguatan Profil Pelajar Pancasila.
+	Mata pelajaran Projek Penguatan Profil Pelajar Pancasila yang terdapat di tabel pembelajaran hanya digunakan untuk mengakomodir tugas tambahan koordinator P5.
+	Jumlah jam mengajar yang dimasukkan ke dalam tabel pengisian tema P5 di tabel pembelajaran tidak diekuivalensikan sebagai jam tatap muka.
+
+
+ 
+
+Demikian informasi yang kami sampaikan. Atas perhatian dan kerja sama Bapak/Ibu, kami ucapkan terima kasih.
+
+ 
+
+Salam Satu Data Pendidikan Indonesia,
+
+Wassalamualaikum warahmatullahi wabarakatuh.
+
+</description>
+					                </item></channel>
+  	</rss>
